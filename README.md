@@ -1,3 +1,3 @@
 # CSCI3150
 
-## Assignment6/
+## Assignment6
