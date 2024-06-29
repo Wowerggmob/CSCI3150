@@ -1,0 +1,36 @@
+h1,
+h2 {
+    color: Gold;
+}
+
+p {
+    color: gray;
+}
+
+ul {
+    border: 10px dashed orange;
+}
+
+ol {
+    border: 10px solid purple;
+}
+
+ol,
+ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+
+strong {
+    color: red;
+}
+
+em {
+    color: black;
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+    width: 100%;
+}
